@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gregory-villmann
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning AI @VU Amsterdam
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me gregoryvillmann@gmail.com
 
